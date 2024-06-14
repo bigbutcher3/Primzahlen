@@ -32,7 +32,7 @@ namespace Primzahlen
                 Int32.TryParse(Console.ReadLine(), out zahl2);
                 if (zahl2 >= zahl1)
                 {
-                    string[] primeArray = PrimeNumbers(zahl1, zahl2);
+                    string[] primeArray = CalcualtePrimeNumbers(zahl1, zahl2);
                     if (primeArray.Length == 0) Console.WriteLine("In dem gewählten Intervall gibt es keine Primzahlen.");
                     foreach (string prime in primeArray)
                     {
@@ -49,7 +49,7 @@ namespace Primzahlen
             } while (key != ConsoleKey.Escape);
         }
 
-        static string[] PrimeNumbers(int from, int to)
+        static string[] CalcualtePrimeNumbers(int from, int to)
         {
             string result = "";
 

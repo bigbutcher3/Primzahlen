@@ -12,3 +12,4 @@ X:\LF 11\Primzahlen\Primzahlen\obj\Debug\net8.0\refint\Primzahlen.dll
 X:\LF 11\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.pdb
 X:\LF 11\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.genruntimeconfig.cache
 X:\LF 11\Primzahlen\Primzahlen\obj\Debug\net8.0\ref\Primzahlen.dll
+X:\LF 11\Primzahlen\Primzahlen\obj\Debug\net8.0\Primzahlen.sourcelink.json

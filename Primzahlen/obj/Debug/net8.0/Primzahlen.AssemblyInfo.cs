@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Primzahlen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+315efeec5aec8165673eafd87695c60b9bc9e495")]
 [assembly: System.Reflection.AssemblyProductAttribute("Primzahlen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Primzahlen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
