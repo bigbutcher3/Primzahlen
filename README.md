@@ -4,6 +4,6 @@ Verwenden Sie dazu die Funktion / Methode CalculatePrimeNumbers(int from, int to
 
 Gestalten Sie die Eingabe der Zahlenwerte und die Ausgabe nach folgendem Schema:
 
-[!image](Primzahlen/Beispiel.png)
+[!image info](Primzahlen/Beispiel.png)
 
 Wird nach der ersten Abarbeitung ESC gedrückt beendet das Programm, ansonsten startet es wieder neu.
